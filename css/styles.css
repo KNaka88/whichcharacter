@@ -1,0 +1,19 @@
+.q-card {
+  display:block;
+  height: 300px;
+  width: 50%;
+  margin: 3% auto;
+  border: 2px solid red;
+}
+
+#q2 {
+  display: none;
+}
+
+#q3 {
+  display: none;
+}
+
+#q4 {
+  display: none;
+}
